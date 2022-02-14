@@ -1,6 +1,7 @@
 import { MantineProvider } from "@mantine/core";
 import { AppShell, Button, Container } from "@mantine/core";
 
+import "normalize.css";
 import "./App.css";
 
 function App() {
